@@ -20,6 +20,8 @@ Run backend:
 
 When running controller listens on port 8080
 
+Project is using our API keys for now but for the future, please add your own API keys under backend/tourismPlanner/src/main/java/fi/tuni/sd/tourismPlanner/resources
+
 ---
 Run frontend:
 - `cd binary-brains\frontend`
