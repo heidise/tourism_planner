@@ -15,7 +15,7 @@ Tourism planner is a web application that combines weather data with data from e
 Java version 21 or newer is required to run the application.
 
 Run backend:
-- `cd binary-brains\backend\tourismPlanner`
+- `cd tourism_planner\backend\tourismPlanner`
 - `mvn spring-boot:run`
 
 When running controller listens on port 8080
@@ -24,7 +24,7 @@ Project is using our API keys for now but for the future, please add your own AP
 
 ---
 Run frontend:
-- `cd binary-brains\frontend`
+- `cd tourism_planner\frontend`
 - `npm i`
 - `npm run dev`
 
