@@ -10,6 +10,12 @@ Tourism planner is a web application that combines weather data with data from e
 
 **See the whole project documentation under /docs folder.**
 
+**Snippets of the home and event pages:**
+
+<img src="https://github.com/heidise/tourism_planner/blob/main/docs/snippet1.PNG" width="700"/>
+
+<img src="https://github.com/heidise/tourism_planner/blob/main/docs/snippet2.PNG" width="700"/>
+
 ---
 **Running the program:**
 Java version 21 or newer is required to run the application.
